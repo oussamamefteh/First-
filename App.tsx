@@ -8,6 +8,8 @@ export default function App() {
       <StatusBar style="auto" />
     </View>
   );
+  console.log("Hello, world!");
+
 }
 
 const styles = StyleSheet.create({
